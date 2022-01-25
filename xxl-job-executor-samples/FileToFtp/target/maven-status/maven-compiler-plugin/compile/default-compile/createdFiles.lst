@@ -1,0 +1,5 @@
+vanda\com\FlieToFtp\config\XxlJobConfig.class
+vanda\com\FlieToFtp\FileToFtpApplication.class
+vanda\com\FlieToFtp\jobhandler\FileToFtpHandler.class
+vanda\com\FlieToFtp\config\FtpConfig.class
+vanda\com\FlieToFtp\unit\FileToFtpUnits.class
